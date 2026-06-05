@@ -24,7 +24,7 @@ I am currently improving my portfolio around AI engineering, LLM applications, b
 
 ## Projects I Am Building
 
-### RAG PDF Assistant
+### [RAG PDF Assistant](https://github.com/awaiscom02/rag-pdf-assistant)
 A Python app for asking questions from PDF documents using embeddings, vector search, and an LLM.  
 Focus: RAG pipeline, document chunking, retrieval, prompt design, and source-based answers.
 
@@ -61,4 +61,3 @@ I use this GitHub profile to share my AI, LLM, and Python projects as I continue
 
 - GitHub: [awaiscom02](https://github.com/awaiscom02)
 - Open to remote AI Engineer, LLM Engineer, and Python Developer opportunities
-
