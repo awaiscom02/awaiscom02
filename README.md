@@ -28,7 +28,7 @@ I am currently improving my portfolio around AI engineering, LLM applications, b
 A Python app for asking questions from PDF documents using embeddings, vector search, and an LLM.  
 Focus: RAG pipeline, document chunking, retrieval, prompt design, and source-based answers.
 
-### LLM Prompt Evaluator
+### [LLM Prompt Evaluator](https://github.com/awaiscom02/llm-prompt-evaluator)
 A small evaluation tool for testing different prompts and comparing outputs based on quality, cost, response time, and consistency.  
 Focus: prompt testing, LLM evaluation, logging, and result comparison.
 
