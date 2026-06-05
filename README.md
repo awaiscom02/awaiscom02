@@ -8,9 +8,9 @@ Open to remote AI Engineer, LLM Engineer, and Python Developer roles.
 
 - [rag-pdf-assistant](https://github.com/awaiscom02/rag-pdf-assistant) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/rag-pdf-assistant?style=social) - RAG project for asking questions from PDF and text documents using retrieval, chunking, and optional LLM answers.
 - [llm-prompt-evaluator](https://github.com/awaiscom02/llm-prompt-evaluator) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-prompt-evaluator?style=social) - Python tool for comparing prompt versions, latency, rough token usage, and response quality.
-- `fastapi-llm-backend` - API service for LLM features with FastAPI, environment config, logging, and Docker.
-- `ai-resume-job-matcher` - Resume and job description matcher using text similarity and AI-based suggestions.
-- `customer-support-ai-classifier` - ML text classification project for support ticket categories and priorities.
+- [fastapi-llm-backend](https://github.com/awaiscom02/fastapi-llm-backend) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/fastapi-llm-backend?style=social) - API service for LLM features with FastAPI, environment config, validation, and Docker.
+- [ai-resume-job-matcher](https://github.com/awaiscom02/ai-resume-job-matcher) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-resume-job-matcher?style=social) - Resume and job description matcher using text preprocessing, skill overlap, and cosine similarity.
+- [customer-support-ai-classifier](https://github.com/awaiscom02/customer-support-ai-classifier) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/customer-support-ai-classifier?style=social) - University-level text classifier for support ticket categories using a simple Naive Bayes model.
 
 ## Tech I Use
 
@@ -41,4 +41,3 @@ I keep this section honest and update it as real contributions are merged.
 
 - GitHub: [awaiscom02](https://github.com/awaiscom02)
 - Looking for remote AI Engineer, LLM Engineer, and Python Developer opportunities
-
