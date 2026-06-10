@@ -16,15 +16,19 @@ Open to remote AI Engineer, LLM Engineer, and Python Developer roles.
 
 - [llm-prompt-evaluator](https://github.com/awaiscom02/llm-prompt-evaluator) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-prompt-evaluator?style=social) - Python tool for comparing prompt versions, latency, rough token usage, and response quality.
 - [llm-guardrails-evaluator](https://github.com/awaiscom02/llm-guardrails-evaluator) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-guardrails-evaluator?style=social) - Rule-based evaluator for LLM output quality, safety checks, and review flags.
+- [llm-observability-toolkit](https://github.com/awaiscom02/llm-observability-toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-observability-toolkit?style=social) - Python CLI for analyzing LLM logs, cost, latency, error rate, and model usage.
 - [ai-agent-task-planner](https://github.com/awaiscom02/ai-agent-task-planner) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-agent-task-planner?style=social) - Small Python agent-style planner with tool routing, note search, and time estimation.
 
 **Applied ML**
 
+- [ai-support-ticket-triage](https://github.com/awaiscom02/ai-support-ticket-triage) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-support-ticket-triage?style=social) - Python support workflow project for ticket category, urgency, routing, and structured triage reports.
 - [ai-resume-job-matcher](https://github.com/awaiscom02/ai-resume-job-matcher) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-resume-job-matcher?style=social) - Resume and job description matcher using text preprocessing, skill overlap, and cosine similarity.
 - [customer-support-ai-classifier](https://github.com/awaiscom02/customer-support-ai-classifier) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/customer-support-ai-classifier?style=social) - University-level text classifier for support ticket categories using a simple Naive Bayes model.
 
 **Frontend Interfaces**
 
+- [support-ops-command-center](https://github.com/awaiscom02/support-ops-command-center) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/support-ops-command-center?style=social) - Support operations dashboard with SLA risk, AI triage, team load, and response draft UI.
+- [llm-cost-analytics-ui](https://github.com/awaiscom02/llm-cost-analytics-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-cost-analytics-ui?style=social) - LLM spend dashboard for model cost, request volume, endpoint usage, and budget tracking.
 - [ai-model-monitor-dashboard](https://github.com/awaiscom02/ai-model-monitor-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-model-monitor-dashboard?style=social) - Responsive AI monitoring dashboard with metrics, model table, alerts, and canvas chart.
 - [llm-chat-workbench-ui](https://github.com/awaiscom02/llm-chat-workbench-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-chat-workbench-ui?style=social) - Frontend chat workbench for prompt templates, model settings, and simulated LLM responses.
 - [data-labeling-studio-ui](https://github.com/awaiscom02/data-labeling-studio-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/data-labeling-studio-ui?style=social) - Data annotation interface for labeling AI training examples and tracking review progress.
@@ -32,7 +36,7 @@ Open to remote AI Engineer, LLM Engineer, and Python Developer roles.
 
 ## Tech I Use
 
-Python, FastAPI, SQL, Docker, REST APIs, HTML, CSS, JavaScript, responsive UI design, dashboards, machine learning, LLMs, RAG, semantic search, embeddings, prompt evaluation, agent workflows, LangChain, Hugging Face, scikit-learn, pandas, NumPy, SQLite, PostgreSQL basics, and GitHub.
+Python, FastAPI, SQL, Docker, REST APIs, HTML, CSS, JavaScript, responsive UI design, dashboards, machine learning, LLMs, RAG, semantic search, embeddings, prompt evaluation, LLM observability, support automation, agent workflows, LangChain, Hugging Face, scikit-learn, pandas, NumPy, SQLite, PostgreSQL basics, and GitHub.
 
 ## Open Source Direction
 
