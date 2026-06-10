@@ -23,9 +23,16 @@ Open to remote AI Engineer, LLM Engineer, and Python Developer roles.
 - [ai-resume-job-matcher](https://github.com/awaiscom02/ai-resume-job-matcher) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-resume-job-matcher?style=social) - Resume and job description matcher using text preprocessing, skill overlap, and cosine similarity.
 - [customer-support-ai-classifier](https://github.com/awaiscom02/customer-support-ai-classifier) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/customer-support-ai-classifier?style=social) - University-level text classifier for support ticket categories using a simple Naive Bayes model.
 
+**Frontend Interfaces**
+
+- [ai-model-monitor-dashboard](https://github.com/awaiscom02/ai-model-monitor-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ai-model-monitor-dashboard?style=social) - Responsive AI monitoring dashboard with metrics, model table, alerts, and canvas chart.
+- [llm-chat-workbench-ui](https://github.com/awaiscom02/llm-chat-workbench-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/llm-chat-workbench-ui?style=social) - Frontend chat workbench for prompt templates, model settings, and simulated LLM responses.
+- [data-labeling-studio-ui](https://github.com/awaiscom02/data-labeling-studio-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/data-labeling-studio-ui?style=social) - Data annotation interface for labeling AI training examples and tracking review progress.
+- [ml-experiment-tracker-ui](https://github.com/awaiscom02/ml-experiment-tracker-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/awaiscom02/ml-experiment-tracker-ui?style=social) - ML experiment dashboard for comparing runs, metrics, parameters, and model notes.
+
 ## Tech I Use
 
-Python, FastAPI, SQL, Docker, REST APIs, machine learning, LLMs, RAG, semantic search, embeddings, prompt evaluation, agent workflows, LangChain, Hugging Face, scikit-learn, pandas, NumPy, SQLite, PostgreSQL basics, and GitHub.
+Python, FastAPI, SQL, Docker, REST APIs, HTML, CSS, JavaScript, responsive UI design, dashboards, machine learning, LLMs, RAG, semantic search, embeddings, prompt evaluation, agent workflows, LangChain, Hugging Face, scikit-learn, pandas, NumPy, SQLite, PostgreSQL basics, and GitHub.
 
 ## Open Source Direction
 
